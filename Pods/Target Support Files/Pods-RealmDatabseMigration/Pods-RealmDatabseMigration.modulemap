@@ -1,0 +1,6 @@
+framework module Pods_RealmDatabseMigration {
+  umbrella header "Pods-RealmDatabseMigration-umbrella.h"
+
+  export *
+  module * { export * }
+}
